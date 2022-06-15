@@ -1,7 +1,7 @@
 ## Demo
 Download all Demo folder contents.  
 Maintain the relative file locations.  
-Install requirements and run Jupyter notebook.
+Install requirements and run demo_berniulli notebook.
 
 Included:  
 region_dict_xx.pickle  
