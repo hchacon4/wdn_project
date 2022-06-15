@@ -10,15 +10,14 @@ networkx
 wntr
 pickle
 
-###
-Generated using !pipreqs . (19mins)
-Seems incomplete.
-
+# Generated using !pipreqs . (19mins)
+# Seems incomplete.
+'''
 matplotlib==3.2.2
 networkx==2.6.3
 numpy==1.21.6
 pandas==1.3.5
 setuptools==57.4.0
 wntr==0.4.1
-###
+'''
 
