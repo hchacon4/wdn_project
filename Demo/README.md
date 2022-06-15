@@ -3,7 +3,7 @@ Download all Demo folder contents.
 Maintain the relative file locations.  
 Install requirements and run Jupyter notebook.
 
-Included:
+Included:  
 region_dict_xx.pickle  
 csv files containing training dataset information  
 pip_to_pipidx.npy  
