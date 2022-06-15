@@ -2,7 +2,7 @@
 Water Distribution Network leak location using sparse sensor grids
 
 ### Demo
-Access a demo of end-to-end trainable in the Demo folder and follow README instructions.
+Access a demo of end-to-end trainable model in the Demo folder and follow README instructions.
 
 ### Training Pipeline
 Overview: Construct your own training experiments using the following steps.  
