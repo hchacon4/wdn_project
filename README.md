@@ -13,3 +13,5 @@ Overview: Construct your own training experiments using the following step.
 5) Analyze results  
 
 Further details can be found in README files in each folder.
+
+Use the same EPANET INP file throughout an given training pipeline.  If new water network model is desired (i.e. new INP file), start anew from step one.  
