@@ -7,7 +7,7 @@ Access a demo of end-to-end trainable model in the Demo folder and follow README
 ### Training Pipeline
 Overview: Construct your own training experiments using the following steps.  
 1) Run [data simulator](https://github.com/hchacon4/wdn_project/tree/main/Simulators)  
-2) [Partition](https://github.com/hchacon4/wdn_project/tree/main/Graph%20Partitions) water network into regions (using graph_partion notebook)  
+2) [Partition](https://github.com/hchacon4/wdn_project/tree/main/Graph%20Partitions) water network into regions  
 3) Create [training data](https://github.com/hchacon4/wdn_project/tree/main/Training%20Samples) files  
 4) [Train](https://github.com/hchacon4/wdn_project/tree/main/Training%20Models) the model  
 5) [Analyze](https://github.com/hchacon4/wdn_project/tree/main/Analysis) results  
