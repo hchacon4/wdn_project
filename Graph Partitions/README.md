@@ -1,5 +1,5 @@
 ## Edge Partition of Water Network Model Graph  
-network_simulator package required. See Simulators folder for install details.
+network_simulator package is required to run the graph_partition notebook. See Simulators folder for install details.
 
 EPANET INP file is key dependency throughout the training pipeline;  
 Use the same EPANET INP file used in data simulation.
